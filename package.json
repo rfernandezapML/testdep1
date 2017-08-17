@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rfernandezapML/testdep1/issues"
   },
-  "homepage": "https://github.com/rfernandezapML/testdep1#readme"
+  "homepage": "https://github.com/rfernandezapML/testdep1#readme",
+  "dependencies": {
+    "shout": "0.44.0"
+  }
 }

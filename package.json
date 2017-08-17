@@ -1,0 +1,19 @@
+{
+  "name": "dep1",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rfernandezapML/testdep1.git"
+  },
+  "author": "ro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rfernandezapML/testdep1/issues"
+  },
+  "homepage": "https://github.com/rfernandezapML/testdep1#readme"
+}

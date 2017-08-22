@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/rfernandezapML/testdep1#readme",
   "dependencies": {
+    "npm-remote-ls": "^1.3.2",
     "shout": "0.44.0"
   }
 }
